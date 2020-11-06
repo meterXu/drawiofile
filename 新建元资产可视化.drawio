@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T06:28:21.713Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="BkbvZyfd-JqcAUSNZlXI" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T06:33:17.898Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="rTNDIMLGl4Rtz_Lu0QhA" version="13.9.2" type="github">
   <diagram id="jvrbV9RRo3nedBi6Skto" name="Page-1">
     <mxGraphModel dx="1024" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,23 +10,38 @@
         <mxCell id="BUAmGt_GoeQWq02jle5p-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Vue + Vant&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="140" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tv0lIXRngKDj8AsCGsrw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-1" value="顶部工具组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tv0lIXRngKDj8AsCGsrw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-2" value="项目列表组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tv0lIXRngKDj8AsCGsrw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="120" height="40" as="geometry" />
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-3" value="单个项目组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="286" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tv0lIXRngKDj8AsCGsrw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-4" value="抽屉组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tv0lIXRngKDj8AsCGsrw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-5" value="地图组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="396" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tv0lIXRngKDj8AsCGsrw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="280" height="190" as="geometry" />
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-7" value="分享组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="387" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-8" value="铺位数据排序&lt;br&gt;组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-9" value="推荐铺位&lt;br&gt;组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="590" y="317" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-10" value="楼层索引组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="226" width="220" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="tv0lIXRngKDj8AsCGsrw-11" value="楼层组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
