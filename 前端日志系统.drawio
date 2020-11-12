@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T02:52:11.988Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="fYadEwBRLrQXOAjs-1TN" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T03:10:59.967Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="nnLKElMEJ7VZO25Df3IY" version="13.9.3" type="github">
   <diagram id="TznxjGskonesAPE4rxT5" name="Page-1">
-    <mxGraphModel dx="1957" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2394" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RIuytmqvGiUhqceMKaMm-1" value="美团 Logan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-2" value="前端日志实现方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="530" width="130" height="80" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-2" value="前端日志实现方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="905" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RIuytmqvGiUhqceMKaMm-3" value="web/移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="-104" width="100" height="40" as="geometry" />
@@ -265,32 +265,119 @@
             <mxPoint x="120" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-64" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="60" y="740" width="110" height="40" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-64" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="760" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-65" value="可视化埋点（xpath）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450" y="740" width="110" height="40" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-65" value="可视化埋点（xpath）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="905" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-66" value="自动埋点&lt;br&gt;（监视控件事件）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="845" y="740" width="110" height="40" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-66" value="自动埋点&lt;br&gt;（监视控件事件）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1045" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-72" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="850" width="160" height="240" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-79" value="灵活，高效，覆盖面广" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="471" y="680" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-73" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="850" width="160" height="240" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-81" value="不透明，增加额外代码量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-74" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="330" y="850" width="160" height="240" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-82" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-64" target="RIuytmqvGiUhqceMKaMm-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="810" as="sourcePoint" />
+            <mxPoint x="370" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-75" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="850" width="160" height="240" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-83" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RIuytmqvGiUhqceMKaMm-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="780" as="sourcePoint" />
+            <mxPoint x="480" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-76" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="730" y="850" width="160" height="240" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-84" value="门槛低，配置化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="890" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-77" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="910" y="850" width="160" height="240" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-85" value="依赖页面结构，不灵活" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="960" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-86" value="透明，简洁，无额外代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="471" y="1045" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-87" value="冗余，日志量大" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1110" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-88" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-2" target="RIuytmqvGiUhqceMKaMm-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="950" as="sourcePoint" />
+            <mxPoint x="150" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-89" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-2" target="RIuytmqvGiUhqceMKaMm-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="850" as="sourcePoint" />
+            <mxPoint x="160" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-90" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-2" target="RIuytmqvGiUhqceMKaMm-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1060" as="sourcePoint" />
+            <mxPoint x="100" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-91" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-65" target="RIuytmqvGiUhqceMKaMm-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="410" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-92" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-65" target="RIuytmqvGiUhqceMKaMm-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1010" as="sourcePoint" />
+            <mxPoint x="390" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-93" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-66" target="RIuytmqvGiUhqceMKaMm-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1040" as="sourcePoint" />
+            <mxPoint x="410" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-94" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RIuytmqvGiUhqceMKaMm-66" target="RIuytmqvGiUhqceMKaMm-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1150" as="sourcePoint" />
+            <mxPoint x="350" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-95" value="主流实现方式：完整日志系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="745" y="700" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-96" value="主流实现方式：第三方平台工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="745" y="900" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-97" value="主流实现方式：组件/插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="746" y="1070" width="184" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-98" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="730" as="sourcePoint" />
+            <mxPoint x="730" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-99" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="930" as="sourcePoint" />
+            <mxPoint x="730" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-100" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="1099.5" as="sourcePoint" />
+            <mxPoint x="730" y="1099.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="720" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-104" value="&lt;h1&gt;总结&lt;/h1&gt;&lt;p&gt;1、前端日志收集可集成至框架中，封装框架提供的UI组件，在组件生命周期或事件内进行代码埋点&lt;/p&gt;&lt;p&gt;2、采用成熟的开源框架，对日志进行整理和分析&lt;/p&gt;&lt;p&gt;3、支持透明日志记录收集及主动业务日志上报功能&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="750" width="274" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
