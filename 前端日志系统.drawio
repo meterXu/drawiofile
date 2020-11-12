@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T02:44:09.854Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="juAR-2l2tR9LHTH18Z6I" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T02:52:11.988Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="fYadEwBRLrQXOAjs-1TN" version="13.9.3" type="github">
   <diagram id="TznxjGskonesAPE4rxT5" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1957" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RIuytmqvGiUhqceMKaMm-1" value="美团 Logan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RIuytmqvGiUhqceMKaMm-2" value="美团 Logan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="590" width="110" height="40" as="geometry" />
+        <mxCell id="RIuytmqvGiUhqceMKaMm-2" value="前端日志实现方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RIuytmqvGiUhqceMKaMm-3" value="web/移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="-104" width="100" height="40" as="geometry" />
@@ -264,6 +264,33 @@
             <mxPoint x="70" y="280" as="sourcePoint" />
             <mxPoint x="120" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-64" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-65" value="可视化埋点（xpath）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-66" value="自动埋点&lt;br&gt;（监视控件事件）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="845" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-72" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="850" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-73" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-74" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-75" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-76" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="850" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RIuytmqvGiUhqceMKaMm-77" value="代码埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="910" y="850" width="160" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
