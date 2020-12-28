@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T00:50:53.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tvtpKHpTIneuO3r4hpYz" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T00:52:17.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5-68HXOhYqWvrP5KxIEK" version="14.1.2" type="github">
   <diagram id="GmFpoFqPf8v9WZ1GltCS" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="630" y="130" width="230" height="390" as="geometry" />
         </mxCell>
         <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-4" value="移动端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="140" width="40" height="20" as="geometry" />
+          <mxGeometry x="725" y="140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-5" value="选择题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="110" height="50" as="geometry" />
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-11" value="模拟练习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-13" value="模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-15" value="刷题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-16" value="错题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
