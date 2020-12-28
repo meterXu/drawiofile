@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T01:01:40.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ggB20Hmof7-vu82jan8Z" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T01:03:47.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vFQJTtSpmSUGAGOeWS5v" version="14.1.2" type="github">
   <diagram id="GmFpoFqPf8v9WZ1GltCS" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,27 @@
         </mxCell>
         <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-46" value="错题入库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1010" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQ7JFKAoIe0-9Cnb6-Zk-53" target="IQ7JFKAoIe0-9Cnb6-Zk-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-53" value="错题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="610" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQ7JFKAoIe0-9Cnb6-Zk-54" target="IQ7JFKAoIe0-9Cnb6-Zk-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQ7JFKAoIe0-9Cnb6-Zk-54" target="IQ7JFKAoIe0-9Cnb6-Zk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-54" value="重做" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="725" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-55" value="移除错题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="860" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQ7JFKAoIe0-9Cnb6-Zk-57" value="显示正确答案，和解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="745" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
