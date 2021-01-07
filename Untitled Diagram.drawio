@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T07:41:36.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.2" etag="rUBaNJpHBH1kH6hcftVj" type="github"><diagram id="2o_S6m8AGe0aLNlwkB8m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-07T07:46:12.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GbudiV8x2kPM1JPR3jk7" version="14.1.2" type="github">
+  <diagram id="2o_S6m8AGe0aLNlwkB8m" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-55" width="40" height="545" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-2" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-7" value="云桌面外层网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;shadow=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-9" value="云桌面内层网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="450" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-10" value="A" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-11" value="B" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="813" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-12" value="C" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="900" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwNErVk4smQ6sCANkdnV-13" value="D" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
+          <mxGeometry x="980" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
