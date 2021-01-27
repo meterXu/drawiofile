@@ -1,26 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T07:09:07.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="LpqD6nBs8XMmww5yobiT" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T07:24:43.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="UaI9j1viu2f0dEP35ch0" version="14.1.8" type="github">
   <diagram id="6jLpbE4ZbHyYhA1-_Lg1" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ESVv2EAXzNbeV4ChciWU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="430" height="310" as="geometry" />
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="680" height="380" as="geometry" />
         </mxCell>
         <mxCell id="ESVv2EAXzNbeV4ChciWU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="140" y="350" width="430" height="70" as="geometry" />
+          <mxGeometry x="60" y="380" width="640" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ESVv2EAXzNbeV4ChciWU-3" value="自定义指令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="90" height="50" as="geometry" />
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Custom Directives&lt;br&gt;自定义指令&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ESVv2EAXzNbeV4ChciWU-4" value="vue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="90" height="50" as="geometry" />
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;vue&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ESVv2EAXzNbeV4ChciWU-5" value="animate.css" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="90" height="50" as="geometry" />
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;animate.css&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="470" width="640" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ESVv2EAXzNbeV4ChciWU-9" value="&lt;font style=&quot;font-size: 22px&quot;&gt;web元素交互动画&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="210" height="40" as="geometry" />
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-9" value="&lt;font style=&quot;font-size: 22px&quot;&gt;web元素交互动画系统结构图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Object&lt;br&gt;作用动画的元素&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;behavior&lt;br&gt;动画表现形式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ESVv2EAXzNbeV4ChciWU-20" value="&lt;font style=&quot;font-size: 16px&quot;&gt;adapter&amp;nbsp;&lt;br&gt;适配第三方UI组件库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="640" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
