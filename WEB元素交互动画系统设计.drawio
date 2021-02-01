@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T07:45:44.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="LxRiRgwlDG9KHqAT1X1U" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T01:08:18.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="LvMbOl0syFIQT0gC1w7w" version="14.2.7" type="github">
   <diagram id="6jLpbE4ZbHyYhA1-_Lg1" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,39 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="1405" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="910" y="280" width="690" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-3" value="&lt;font style=&quot;font-size: 22px&quot;&gt;dparkUI前端视觉交互设计系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="200" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;UI组件库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="930" y="320" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;图标字体库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="320" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;交互、动画&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="320" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;login页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="320" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="480" width="650" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-5" value="vue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-6" value="antd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-7" value="&lt;span style=&quot;font-size: 16px&quot;&gt;animate.css&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_k4Gz6TlpDY6LWJI00wX-8" value="&lt;span style=&quot;font-size: 16px&quot;&gt;three.js&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
