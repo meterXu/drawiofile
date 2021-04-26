@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T03:05:38.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ZLHbRV7AyfZWbYcU0oiD" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T03:21:41.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="MK8Ndvo03hMcun6V-qUe" version="14.6.0" type="github">
   <diagram id="_BkoqEayFcA_iPLzUDcl" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,6 +311,90 @@
             <mxPoint x="2360" y="860" as="sourcePoint" />
             <mxPoint x="2480" y="800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-68" value="项目申请开源流程（手动）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="805" y="2020" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-72" value="登录，添加cbb开源申请" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-74" value="gitlab上的项目地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2090" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-75" value="管理员登录gitlab" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-76" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-72" target="B5DhvqtyqBvgkAlbuiQp-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="2210" as="sourcePoint" />
+            <mxPoint x="1270" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-77" value="根据地址找到项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-78" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-75" target="B5DhvqtyqBvgkAlbuiQp-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="2210" as="sourcePoint" />
+            <mxPoint x="1550" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-79" target="B5DhvqtyqBvgkAlbuiQp-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-79" value="迁移项目至“园区测绘开源开源项目”" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="2150" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-80" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-77" target="B5DhvqtyqBvgkAlbuiQp-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="2220" as="sourcePoint" />
+            <mxPoint x="1800" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-81" target="B5DhvqtyqBvgkAlbuiQp-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-81" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="2140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-83" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="2140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-85" value="用户申请使用开源项目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2260" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-86" target="B5DhvqtyqBvgkAlbuiQp-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-86" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="2350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-87" value="登录cbb，申请使用开源项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-89" target="B5DhvqtyqBvgkAlbuiQp-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-89" value="管理员登录gitlab" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-90" value="gitlab上的项目地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-91" target="B5DhvqtyqBvgkAlbuiQp-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-91" value="根据地址找到项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-93" target="B5DhvqtyqBvgkAlbuiQp-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-93" value="添加项目成员，权限“开发者”" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-95" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="2350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
