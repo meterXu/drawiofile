@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T01:31:22.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="dM2yk6eqCyG0yOOfYycW" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T02:28:45.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="HqHQ5WskzVMj0pGd8BJ-" version="14.6.0" type="github">
   <diagram id="_BkoqEayFcA_iPLzUDcl" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,6 +188,99 @@
         </mxCell>
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-29" value="&lt;span&gt;私有项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2155" y="1390" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-30" value="开源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-31" value="园区测绘群组(内部)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1670" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-33" value="私有项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1800" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-36" value="" style="endArrow=none;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-30" target="B5DhvqtyqBvgkAlbuiQp-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1760" as="sourcePoint" />
+            <mxPoint x="1170" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-37" value="" style="endArrow=none;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-30" target="B5DhvqtyqBvgkAlbuiQp-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1870" as="sourcePoint" />
+            <mxPoint x="1170" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-38" value="闭源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-39" value="私有群组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-40" value="私有项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-41" value="" style="endArrow=none;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-38" target="B5DhvqtyqBvgkAlbuiQp-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920" y="1760" as="sourcePoint" />
+            <mxPoint x="1970" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-42" value="" style="endArrow=none;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-38" target="B5DhvqtyqBvgkAlbuiQp-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920" y="1870" as="sourcePoint" />
+            <mxPoint x="1970" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-47" value="成员权限" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-48" value="开发者：查看代码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="830" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-49" value="所有者：查看代码，下载代码，提交代码，删除项目" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1025" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-50" value="维护者：查看代码，下载代码，提交代码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="925" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-52" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-47" target="B5DhvqtyqBvgkAlbuiQp-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="960" as="sourcePoint" />
+            <mxPoint x="1950" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-53" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-47" target="B5DhvqtyqBvgkAlbuiQp-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1040" as="sourcePoint" />
+            <mxPoint x="1950" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-54" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-47" target="B5DhvqtyqBvgkAlbuiQp-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="1060" as="sourcePoint" />
+            <mxPoint x="1920" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-55" value="1、项目迁移至园区测绘群组，权限置为&quot;私有&quot;项目&lt;br&gt;2、只能查看项目的wiki（描述页面），不能查看代码。&lt;br&gt;3、进行申请成为开发者，可查看下载代码，fork项目，推送合并分支，为项目提供贡献。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1775" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-56" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;1、群组内包含所有用户&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;2、如果某用户不在群组内，则无法查看群租内项目(wiki)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1685" width="370" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-58" value="来宾：查看wiki/介绍" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="740" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-59" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-47" target="B5DhvqtyqBvgkAlbuiQp-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="860" as="sourcePoint" />
+            <mxPoint x="1940" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-60" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;只有群组内部人员可以查看该项目&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1687.5" width="250" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-61" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;内部人员才能查看&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1820" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
