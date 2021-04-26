@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T09:23:17.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="EaHOxPomDbmIraOMMz1l" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T09:23:38.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ZFVNPY31bdXmjwdkWP_h" version="14.6.6" type="github">
   <diagram id="_BkoqEayFcA_iPLzUDcl" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-29" value="&lt;span&gt;私有项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2155" y="1390" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B5DhvqtyqBvgkAlbuiQp-30" value="开源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-30" value="开放项目" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-31" value="园区测绘开源项目组(内部)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -216,7 +216,7 @@
             <mxPoint x="1170" y="1820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5DhvqtyqBvgkAlbuiQp-38" value="闭源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-38" value="闭源项目" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1830" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-39" value="私有群组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
