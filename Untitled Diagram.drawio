@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T01:06:12.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="KXU-nN2Q2q_oAWl3EDjx" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T01:31:22.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="dM2yk6eqCyG0yOOfYycW" version="14.6.0" type="github">
   <diagram id="_BkoqEayFcA_iPLzUDcl" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,22 +100,94 @@
           <mxGeometry x="530" y="675" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-1" value="园区测绘（公开组）&lt;br style=&quot;font-size: 14px;&quot;&gt;项目所有人都可以访问&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="500" width="240" height="120" as="geometry" />
+          <mxGeometry x="1400" y="440" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-2" value="项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="972.5" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="810" width="172.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B5DhvqtyqBvgkAlbuiQp-3" value="群组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="911.25" y="1080" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B5DhvqtyqBvgkAlbuiQp-4" value="公开" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="750" width="170" height="40" as="geometry" />
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-4" value="&lt;div&gt;公开-&lt;span style=&quot;color: rgb(34 , 34 , 34)&quot;&gt;该项目允许任何人访问&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="880" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B5DhvqtyqBvgkAlbuiQp-5" value="内部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="810" width="170" height="40" as="geometry" />
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-5" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;内部-&lt;/span&gt;&lt;span&gt;&lt;font color=&quot;#222222&quot;&gt;该项目允许所有已登录到当前GitLab服务器的用户访问&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="815" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B5DhvqtyqBvgkAlbuiQp-6" value="私有" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="875" width="170" height="40" as="geometry" />
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;私有-&lt;/font&gt;&lt;span&gt;&lt;font color=&quot;#222222&quot; face=&quot;consolas, lucida console, courier new, monospace&quot;&gt;项目访问必须明确授予每个用户。 如果此项目是在一个群组中，群组成员将会获得访问权限&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="750" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-8" value="&lt;span style=&quot;color: rgb(34 , 34 , 34)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;私有 - 群组及其项目只能由成员查看。&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1010" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34)&quot;&gt;内部 -&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#222222&quot; style=&quot;font-size: 14px&quot;&gt;任何登录的用户都可以查看该群组和任何内部项目。&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1080" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-10" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-size: 12px&quot;&gt;公开 -&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#222222&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;群组和任何公共项目可以在没有任何身份验证的情况下查看。&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1150" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-11" value="公开群组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1280" width="560" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-13" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-2" target="B5DhvqtyqBvgkAlbuiQp-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="870" as="sourcePoint" />
+            <mxPoint x="1130" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-14" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-2" target="B5DhvqtyqBvgkAlbuiQp-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="880" as="sourcePoint" />
+            <mxPoint x="1170" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-15" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-2" target="B5DhvqtyqBvgkAlbuiQp-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="930" as="sourcePoint" />
+            <mxPoint x="1180" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-16" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-3" target="B5DhvqtyqBvgkAlbuiQp-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="1150" as="sourcePoint" />
+            <mxPoint x="1150" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-17" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-3" target="B5DhvqtyqBvgkAlbuiQp-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1160" as="sourcePoint" />
+            <mxPoint x="1130" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-18" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B5DhvqtyqBvgkAlbuiQp-3" target="B5DhvqtyqBvgkAlbuiQp-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="1200" as="sourcePoint" />
+            <mxPoint x="1140" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-19" value="公开项目" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1330" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-20" value="&lt;span&gt;内部项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1410" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-21" value="&lt;span&gt;私有项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1490" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-23" value="内部群组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1280" width="560" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-25" value="&lt;span&gt;内部项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="1350" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-26" value="&lt;span&gt;私有项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1420" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-27" value="私有群组" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="1280" width="560" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="B5DhvqtyqBvgkAlbuiQp-29" value="&lt;span&gt;私有项目&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="1390" width="430" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
