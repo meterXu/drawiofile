@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T08:28:51.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="sX0dssLesUaWRLi9DzKK" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T08:30:28.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="vlrKKEQ9pNywq8rX-JBo" version="14.6.11" type="github">
   <diagram id="onAJnXxT8Nkg-IWg8Pun" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DTWknUlmrkSnQhSk17Vn-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="1140" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="DTWknUlmrkSnQhSk17Vn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="DTWknUlmrkSnQhSk17Vn-1" target="DTWknUlmrkSnQhSk17Vn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -30,9 +33,6 @@
         </mxCell>
         <mxCell id="DTWknUlmrkSnQhSk17Vn-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;使用组件方式渲染图标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="720" y="150" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DTWknUlmrkSnQhSk17Vn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="DTWknUlmrkSnQhSk17Vn-8" target="DTWknUlmrkSnQhSk17Vn-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DTWknUlmrkSnQhSk17Vn-8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;使用组件方式渲染图标&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="930" y="150" width="150" height="80" as="geometry" />
@@ -93,6 +93,15 @@
         </mxCell>
         <mxCell id="DTWknUlmrkSnQhSk17Vn-19" value="&lt;span style=&quot;font-size: 14px&quot;&gt;发布至npm库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="940" y="600" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DTWknUlmrkSnQhSk17Vn-36" value="图标浏览" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DTWknUlmrkSnQhSk17Vn-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="DTWknUlmrkSnQhSk17Vn-37" target="DTWknUlmrkSnQhSk17Vn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DTWknUlmrkSnQhSk17Vn-37" value="显示图表使用代码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="930" y="230" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
